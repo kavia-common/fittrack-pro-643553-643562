@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/fittrack-pro-643553-643562/android_frontend"
+}
